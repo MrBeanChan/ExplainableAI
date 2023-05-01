@@ -1,0 +1,15 @@
+-----------------Encodings-------------------------
+
+#Gender
+
+Female=0
+Male=1
+
+#race
+Caucasian          2
+AfricanAmerican    0
+Hispanic           3
+Other              4
+Asian              1
+
+
